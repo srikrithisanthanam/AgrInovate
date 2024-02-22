@@ -2,7 +2,7 @@
 AgrInovate is an innovative mobile application designed to assist farmers in making informed decisions regarding crop selection and fertilizer usage. By leveraging machine learning technology, AgrInovate predicts the most suitable crop to be grown and recommends the optimal fertilizer to protect the crops, thereby enhancing agricultural productivity and sustainability.
 
 <b>Crop Prediction:</b>
-AgrInovate utilizes advanced machine learning models to predict the most appropriate crop to be grown based on various factors such as soil type, climate conditions, and historical data. By analyzing these factors, AgrInovate offers tailored recommendations to optimize crop yields.
+AgrInovate utilizes advanced machine learning models to predict the most appropriate crop to be grown based on various factors such as soil type, climate conditions, and historical data. By analyzing these factors, AgrInovate offers tailored recommendations to optimize crop yields.<br>
 Dataset from Kaggle <a href="https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset">Dataset Link</a>
 
 <b>Fertilizer Recommendation:</b>

@@ -7,8 +7,8 @@ Dataset from Kaggle <a href="https://www.kaggle.com/datasets/atharvaingle/crop-r
 <b>The crop prediction model  yeids an accuracy of 98.9%</b><br><br>
 
 <b>Fertilizer Recommendation:</b>
-In addition to crop prediction, AgrInnovate recommends the most suitable fertilizer to safeguard the crops against pests, diseases, and nutrient deficiencies. By considering the specific requirements of each crop and the nutrient composition of the soil, AgrInovate ensures the effective application of fertilizers, thereby promoting healthy plant growth.
-Dataset from Kaggle <a href="https://www.kaggle.com/gdabhishek/fertilizer-prediction">Dataset Link</a>
+In addition to crop prediction, AgrInnovate recommends the most suitable fertilizer to safeguard the crops against pests, diseases, and nutrient deficiencies. By considering the specific requirements of each crop and the nutrient composition of the soil, AgrInovate ensures the effective application of fertilizers, thereby promoting healthy plant growth.<br>
+Dataset from Kaggle <a href="https://www.kaggle.com/gdabhishek/fertilizer-prediction">Dataset Link</a><br>
 <b>The fertilizer prediction model yeids an accuracy of 97.9%</b><br><br>
 
 Machine Learning Models used AgrInovate employs state-of-the-art machine learning algorithms, including the RandomForest Classifier, to power its predictive analytics engine. With an accuracy of 98.9%, these models analyze vast datasets to deliver precise and reliable recommendations to farmers.
